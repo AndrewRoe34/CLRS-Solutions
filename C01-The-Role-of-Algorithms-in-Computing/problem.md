@@ -4,3 +4,6 @@ For each function f(n) and time t in the following table, determine the largest 
 
 ### `Answer`
 ![Growth Rate Chart](https://github.com/AndrewRoe34/CLRS-Solutions/blob/main/C01-The-Role-of-Algorithms-in-Computing/img/ch1-problem1.png)
+
+***
+Follow [@AndrewRoe34](https://github.com/AndrewRoe34) on GitHub if interested in contributing
