@@ -19,6 +19,7 @@ char *addBits(char *A, char *B, int n)
         r = s > 1 ? 1 : 0;
     }
     C[0] = r;
+    return C;
 }
 
 /**
