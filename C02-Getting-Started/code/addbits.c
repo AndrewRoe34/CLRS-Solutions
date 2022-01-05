@@ -32,6 +32,6 @@ int main()
     char *C = addBits(A, B, sizeof(A) / sizeof(char)); //should be 11000
     for(int i = 0; i < 5; i++)
         printf("%d", C[i]);
-
+    free(C);
     return 0;
 }
